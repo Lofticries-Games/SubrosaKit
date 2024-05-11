@@ -26,8 +26,6 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 
 #### `Xcode 15.3+` ﹒ `Swift 5.10+`
 
-- - -
-
 ## Table of Contents
 
 * **[About the framework](#about-the-framework)**
@@ -42,8 +40,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
     * [Supported OS](#supported-os)
 * **Other**
     * [Project e-mail](#project-e-mail)
-* **License**
-    * [SubrosaKit license](#subrosakit-license)
+* **[License](#license)**
 
 - - -
 
@@ -130,8 +127,6 @@ The framework includes a set of four main encryption algorithms that may be requ
 - - -
 
 ### License
-
-#### SubrosaKit license
 
 ##### `⚠️: SubrosaKit ﹒ Lofticries Games® · 2024`
 
