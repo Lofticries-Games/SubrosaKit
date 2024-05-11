@@ -31,9 +31,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 
 ## Table of Contents
 
-* **About the framework**
-    * [Full description](#full-description)
-    * [Used technologies](#used-technologies)
+* **[About the framework]((about-the-framework))**
 * **How to add a dependency?**
     * [Swift Package Manager](#swift-package-manager)
 * **Documentation Catalog**
@@ -57,9 +55,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 
 ### About the framework
 
-#### Full description
-
-###### `Swift Package`
+###### `Swift Package`  
 
 **Name:** `SubrosaKit`  
 
@@ -67,9 +63,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 
 **Target Platform:**  `🍏 Platforms`  
 
-#### Used technologies
-
-`Foundation | CryptoKit` 
+**Used technologies:**  `Foundation | CryptoKit`
 
 - - -
 
