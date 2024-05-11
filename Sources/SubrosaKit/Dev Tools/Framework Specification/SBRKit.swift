@@ -18,15 +18,15 @@ import Foundation
 ///
 /// A class that implements the framework specification.
 ///
-@available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
+@available(iOS 17.0, macOS 14.0, tvOS 17.0, visionOS 1.0, watchOS 10.0, *)
 public final class SBRKit: SBRKitSpecificationable {
 
     // MARK: - Static properties
 
     ///
-    /// A public property that provides access to the properties of the service.
+    /// A shared instance that provides access to the properties of the service.
     ///
-    public static let info = SBRKit()
+    public static let info: SBRKitSpecificationable = SBRKit()
 
 
 
