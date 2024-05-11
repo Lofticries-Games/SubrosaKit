@@ -31,7 +31,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 
 ## Table of Contents
 
-* **[About the framework]((about-the-framework))**
+* **[About the framework]((#about-the-framework))**
 * **How to add a dependency?**
     * [Swift Package Manager](#swift-package-manager)
 * **Documentation Catalog**
