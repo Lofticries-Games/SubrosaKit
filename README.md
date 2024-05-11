@@ -41,11 +41,6 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
     * [Encryption Algorithms](#encryption-algorithms)
 * **Availability**
     * [Supported OS](#supported-os)
-        * [iOS](#ios)
-        * [macOS](#macos)
-        * [tvOS](#tvos)
-        * [visionOS](#visionos)
-        * [watchOS](#watchos)
 * **Other**
     * [Project e-mail](#project-e-mail)
 * **License**
