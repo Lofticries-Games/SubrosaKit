@@ -1,10 +1,14 @@
 <div align="center"><img src="Images/Logo/Logo.png" width="256" height="256"></div>
 
+<br>
+
 <div align="center">
     <a href="https://github.com/apple/swift"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
     <a href="https://apps.apple.com/ru/app/xcode/id497799835?l=en&mt=12"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 </div>
+
+<br>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Rounded+MT+Bold&size=30&duration=2000&pause=1000&color=F7104C&center=true&vCenter=true&multiline=true&width=320&lines=Subrosa+Confidential"/></a>
