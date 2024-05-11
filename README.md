@@ -25,7 +25,6 @@ An open source cryptographic framework that implements several industry standard
 The framework is called SubrosaKit and comes through Swift Package Manager called Subrosa Confidential.
 
 #### `Xcode 15.3+` ﹒ `Swift 5.10+`
-#### `iOS 17.0+` ﹒ `macOS Sonoma 14.0+` ﹒ `tvOS 17.0+` ﹒ `visionOS 1.0+` ﹒ `watchOS 10.0+`
 
 - - -
 
