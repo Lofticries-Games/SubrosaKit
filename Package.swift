@@ -1,23 +1,44 @@
 // swift-tools-version: 5.10
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
+
+//
+//  Package.swift
+//  SubrosaKit
+//
+//  Created by Dimka Novikov on 11.05.2024.
+//  Copyright © 2024 Lofticries Games. All rights reserved.
+//
+
+
+// MARK: Import section
+
 import PackageDescription
 
+
+
+// MARK: - // MARK: - Swift Package
+
 let package = Package(
-    name: "SubrosaKit",
+    name: "Subrosa Confidential",
+    platforms: [
+        .iOS(.v17),
+        .macOS(.v14),
+        .tvOS(.v17),
+        .watchOS(.v10),
+        .visionOS(.v1)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "SubrosaKit",
-            targets: ["SubrosaKit"]),
+            targets: ["SubrosaKit"]
+        )
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "SubrosaKit"),
+        .target(name: "SubrosaKit"),
         .testTarget(
             name: "SubrosaKitTests",
-            dependencies: ["SubrosaKit"]),
+            dependencies: ["SubrosaKit"]
+        )
     ]
 )
