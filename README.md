@@ -19,7 +19,7 @@
 **Version:** `1.0.0`  
 **Build:** `11`
 
-#### SubrosaKit is an [Swift Package](#full-description) written in [Swift 5](https://github.com/apple/swift) and designed for ease of use in projects.
+#### SubrosaKit is an [Swift Package](#about-the-framework) written in [Swift 5](https://github.com/apple/swift) and designed for ease of use in projects.
 
 An open source cryptographic framework that implements several industry standards algorithms.  
 The framework is called SubrosaKit and comes through Swift Package Manager called Subrosa Confidential.
