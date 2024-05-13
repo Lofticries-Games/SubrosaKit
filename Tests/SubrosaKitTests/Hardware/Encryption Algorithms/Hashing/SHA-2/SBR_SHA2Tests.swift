@@ -2,8 +2,8 @@
 //  SBR_SHA2Tests.swift
 //  SubrosaKit Tests
 //
-//  Created by Dimka Novikov on 12.11.2023.
-//  Copyright © 2023 Exhausted Reality. All rights reserved.
+//  Created by Dimka Novikov on 13.05.2024.
+//  Copyright © 2024 Lofticries Games. All rights reserved.
 //
 
 

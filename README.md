@@ -16,8 +16,8 @@
 
 ### Current Release:
 **Status:** `Stable`  
-**Version:** `1.1.1`  
-**Build:** `17`
+**Version:** `1.1.2`  
+**Build:** `14`
 
 #### SubrosaKit is an [Swift Package](#about-the-framework) written in [Swift 5](https://github.com/apple/swift) and designed for ease of use in projects.
 
