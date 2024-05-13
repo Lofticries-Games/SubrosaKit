@@ -99,7 +99,7 @@ print(build)
 
 #### Encryption Algorithms
 
-The framework includes a set of four main encryption algorithms that may be required when solving everyday problems. You can get more information in the documentation.
+An open source cryptographic framework that implements several industry standards algorithms. You can get more information in the documentation.
 
 - - -
 
