@@ -23,6 +23,6 @@ extension SBRKit: CustomStringConvertible {
     /// Representation of the version and build in string form.
     ///
     public var description: String {
-        "\(version.major).\(version.minor).\(version.patch) · \(build)"
+        "\(version.major).\(version.minor).\(version.patch) (\(build))"
     }
 }
