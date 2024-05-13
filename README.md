@@ -31,8 +31,7 @@ The framework is called SubrosaKit and comes through Swift Package Manager calle
 * **About the framework**
 * **How to add a dependency?**
     * [Swift Package Manager](#swift-package-manager)
-* **Documentation Catalog**
-    * [Documentation](#documentation)
+* **Documentation**
 * **Features Set**
     * [SDK Specification](#sdk-specification)
     * [Encryption Algorithms](#encryption-algorithms)
@@ -70,9 +69,7 @@ You can install the framework using SPM by simply specifying a stable version of
 
 - - -
 
-### Documentation Catalog
-
-#### Documentation
+### Documentation
 
 Xcode documentation in .docarchive format is also supplied together in the framework.
 
