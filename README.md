@@ -106,16 +106,8 @@ The framework includes a set of four main encryption algorithms that may be requ
 ### Availability
 
 #### Supported OS
-###### iOS
-`iOS 17.0`﹒`and higher`
-###### macOS
-`macOS Sonoma 14.0`﹒`and higher`
-###### tvOS
-`tvOS 17.0`﹒`and higher`
-###### visionOS
-`visionOS 1.0`﹒`and higher`
-###### watchOS
-`watchOS 10.0`﹒`and higher`
+
+`iOS 17.0+` ﹒ `macOS Sonoma 14.0+` ﹒ `tvOS 17.0+` ﹒ `visionOS 1.0+` ﹒ `watchOS 10.0+`
 
 - - -
 
@@ -128,5 +120,5 @@ The framework includes a set of four main encryption algorithms that may be requ
 
 ### License
 
-##### `⚠️: SubrosaKit ﹒ Lofticries Games® · 2024`
+##### `📃: SubrosaKit ﹒ Lofticries Games® · 2024`
 
