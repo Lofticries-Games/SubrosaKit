@@ -18,7 +18,7 @@ import Foundation
 ///
 /// A class that implements a set of functionality for encryption and decryption with an available set of encryption algorithms.
 ///
-@available(iOS 17.0, macOS 14.0, tvOS 17.0, visionOS 1.0, watchOS 10.0, *)
+@available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
 public final class SBRConfidential {
 
     // MARK: - Private properties

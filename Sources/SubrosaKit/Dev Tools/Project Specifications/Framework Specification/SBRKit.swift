@@ -18,7 +18,7 @@ import Foundation
 ///
 /// A class that implements the framework specification.
 ///
-@available(iOS 17.0, macOS 14.0, tvOS 17.0, visionOS 1.0, watchOS 10.0, *)
+@available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
 public final class SBRKit: SBRKitSpecificationable {
 
     // MARK: - Static properties
@@ -35,12 +35,12 @@ public final class SBRKit: SBRKitSpecificationable {
     ///
     /// A property that allows you to get the version of the framework being used.
     ///
-    public let version = Version(major: 1, minor: 0, patch: 1)
+    public let version = Version(major: 1, minor: 1, patch: 1)
 
     ///
     /// A property that allows you to get the build version of the framework being used.
     ///
-    public let build: Build = 9
+    public let build: Build = 17
 
 
 
