@@ -16,8 +16,8 @@
 
 ### Current Release:
 **Status:** `Stable`  
-**Version:** `1.0.1`  
-**Build:** `9`
+**Version:** `1.1.1`  
+**Build:** `17`
 
 #### SubrosaKit is an [Swift Package](#about-the-framework) written in [Swift 5](https://github.com/apple/swift) and designed for ease of use in projects.
 
@@ -104,7 +104,7 @@ An open source cryptographic framework that implements several industry standard
 
 #### Supported OS
 
-`iOS 17.0+` ﹒ `macOS Sonoma 14.0+` ﹒ `tvOS 17.0+` ﹒ `visionOS 1.0+` ﹒ `watchOS 10.0+`
+`iOS 16.0+` ﹒ `macOS Sonoma 13.0+` ﹒ `tvOS 16.0+` ﹒ `watchOS 9.0+` ﹒ `visionOS 1.0+`
 
 - - -
 

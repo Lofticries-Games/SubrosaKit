@@ -16,7 +16,7 @@ import Foundation
 
 // MARK: - SBR_EdDSA
 
-@available(iOS 17.0, macOS 14.0, tvOS 17.0, visionOS 1.0, watchOS 10.0, *)
+@available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
 final class SBR_EdDSA {
 
     // MARK: - Private properties

@@ -15,7 +15,7 @@ import Foundation
 
 // MARK: - SBRDecryptable
 
-@available(iOS 17.0, macOS 14.0, tvOS 17.0, visionOS 1.0, watchOS 10.0, *)
+@available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
 protocol SBRDecryptable: AnyObject {
 
     // MARK: - Public methods
