@@ -35,12 +35,12 @@ public final class SBRKit: SBRKitSpecificationable {
     ///
     /// A property that allows you to get the version of the framework being used.
     ///
-    public let version = Version(major: 1, minor: 1, patch: 2)
+    public let version = Version(major: 1, minor: 1, patch: 3)
 
     ///
     /// A property that allows you to get the build version of the framework being used.
     ///
-    public let build: Build = 14
+    public let build: Build = 17
 
 
 

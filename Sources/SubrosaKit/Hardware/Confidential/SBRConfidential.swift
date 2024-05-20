@@ -95,20 +95,7 @@ public final class SBRConfidential {
     ///         let dogDecryptedText = await eddsa.decrypt(propertySet: .init(data: catEncryptedData, key: dogSymmetricKey))!
     ///     }
     ///
-    /// An example of using Gamma encryption:
-    ///
-    ///     let gamma = SBRConfidential(with: .gamma)
-    ///
-    ///     let plainText = "Hello, world!"
-    ///
-    ///     Task {
-    ///         let key = await gamma.generateKey()
-    ///
-    ///         let encryptedData = await gamma.encrypt(propertySet: .init(text: plainText, key: key))!
-    ///         let decryptedText = await gamma.decrypt(propertySet: .init(data: encryptedData, key: key))!
-    ///     }
-    ///
-    /// An example of using SHA-2 encryption:
+    /// An example of using SHA-2 hashing:
     ///
     ///     let sha2 = SBRConfidential(with: .sha2(hashValue: .bits512))
     ///
